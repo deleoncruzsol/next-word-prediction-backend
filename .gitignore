@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+ML/data/next_words.h5
+ML/data/token.pkl
